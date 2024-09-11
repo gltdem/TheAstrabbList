@@ -1,16 +1,16 @@
 [
     {
-        "role": "Owner",
+        "role": "owner",
         "name": "Astrabb",
         "link": "https://www.youtube.com/@astrabb"
     },
     {
-        "role": "Admin",
+        "role": "admin",
         "name": "Astrabb",
         "link": "https://www.youtube.com/@astrabb"
     },
     {
-        "role": "Helper",
+        "role": "helper",
         "name": "GltDem",
         "link": ""
     },
@@ -20,7 +20,7 @@
         "link": ""
     },
     {
-        "role": "Dev",
+        "role": "dev",
         "name": "GltDem",
         "link": ""
     }
